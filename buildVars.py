@@ -25,13 +25,13 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""Stores and make possible the entry of frequently used blocks of text. Command: Windows+F12."""),
 	# version
-	"addon_version": "2023.05.31",
+	"addon_version": "2023.08.08",
 	# Author(s)
 	"addon_author": _("Rui Fontes <rui.fontes@tiflotecnia.com>, Ângelo Abrantes <ampa4374@gmail.com> and Abel Passos Júnior"),
 	# URL for the add-on documentation support
-	"addon_url": "https://github.com/ruifontes/frequentText",
+	"addon_url": "https://github.com/fniggemann/frequentText",
 	# URL for the add-on repository where the source code can be found
-	"addon_sourceURL": "https://github.com/ruifontes/frequentText",
+	"addon_sourceURL": "https://github.com/fniggemann/frequentText",
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
