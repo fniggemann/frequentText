@@ -18,7 +18,7 @@ Es ist möglich, eine Kategorie als Standard festzulegen, um schnell auf die ent
 Um dieses Add-on zu verwenden, müssen Sie die Kategorien festlegen und die Textbausteine, die Sie verwenden möchten, anlegen.
 Drücken Sie dazu zunächst Windows+f12. Sie können diesen Befehl im Dialogfeld "Eingabegesten" im Abschnitt "Textbearbeitung" ändern.
 Es wird ein Dialogfeld angezeigt, in dem die vorhandenen Kategorien angezeigt werden. Bei der ersten Verwendung sollten Sie Enter drücken oder mit TAB auf die Schaltfläche "Hinzufügen" gehen und diese aktivieren, um die gewünschten Kategorien zu erstellen.
-Wenn Sie bei einer ausgewählten Kategorie die Eingabetaste drücken oder die Schaltfläche Textbausteine anzeigen" aktivieren, wird ein Dialogfeld mit den Textbausteinen in dieser Kategorie angezeigt.
+Wenn Sie bei einer ausgewählten Kategorie die Eingabetaste drücken oder die Schaltfläche Einträge anzeigen" aktivieren, wird ein Dialogfeld mit den Textbausteinen in dieser Kategorie angezeigt.
 Zusätzlich zu den Optionen "Hinzufügen" und "Textbausteine anzeigen" haben Sie auch die Optionen "Umbenennen", "Als Standard festlegen" und "Löschen".
 Wenn sich das Dialogfeld Textbausteine für eine Kategorie öffnet, werden alle vorhandenen Blöcke angezeigt.
 Um die Textbausteinliste der Standardkategorie zu öffnen, oder, falls diese nicht vorhanden ist, der ersten Kategorie in der Kategorienliste, drücken Sie Strg + Windows + F12.
